@@ -26,7 +26,7 @@ A growing collection of Java programs and exercises organized to strengthen core
 - Build reliable, useful AI applications
 - Improve problem-solving and Java fundamentals
 - Learn modern software-development practices
-- Contribute to meaningful projects
+- Contribute to meaningful projects.
 
 ## Connect
 
