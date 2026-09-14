@@ -1,33 +1,69 @@
-# Hi, I'm Shashank 👋
+# Shashank Bhoyar
 
-Final-year B.Tech Computer Science student focused on building practical software projects with Python, Java, AI, and web technologies.
+**Java Full Stack Developer | B.Tech Information Technology**
 
-## What I’m working with
+I’m an Information Technology professional focused on Java and full-stack development. I enjoy building practical applications, strengthening problem-solving with DSA, and developing backend solutions with Java, Spring Boot, and SQL.
 
-- Python, Flask, OpenCV, YOLOv8
-- Java and core programming concepts
-- HTML, CSS, JavaScript
-- AI-powered computer-vision projects
+## About Me
 
-## Featured projects
+- Java-focused developer with a strong foundation in OOP, Collections, Exception Handling, and DSA
+- Working with JDBC, SQL/MySQL, CRUD operations, and REST fundamentals
+- Building web applications with HTML, CSS, and JavaScript
+- Learning Spring Boot and backend application development
+- Interested in entry-level Java, Backend, and Full Stack Developer opportunities
 
-### 🚂 Safe Rail AI System
-An AI-powered railway obstruction detection system using YOLOv8, Flask, and OpenCV. It detects objects on railway tracks, assesses risk, logs incidents, and supports emergency alerts.
+## Technical Skills
 
-[View project →](https://github.com/Shashankur7/safe-rail-ai-system)
+**Languages:** Java, SQL, Python  
+**Backend:** Spring Boot, JDBC, Flask  
+**Frontend:** HTML, CSS, JavaScript  
+**Database:** MySQL  
+**Core Concepts:** OOP, Collections, Exception Handling, DSA, DBMS, CRUD, REST  
+**Tools:** Git, GitHub, Eclipse, VS Code, MySQL Workbench  
+**Development Practices:** SDLC, STLC, Manual Testing, Basic Bug Reporting
 
-### ☕ Core Java Practice
-A growing collection of Java programs and exercises organized to strengthen core Java fundamentals.
+## Featured Projects
 
-[View project →](https://github.com/Shashankur7/core-java-practice)
+### Safe Rail AI System
+**Python · Flask · OpenCV · YOLOv8**
 
-## Goals
+An AI-based railway track hazard detection prototype that uses computer vision to identify obstructions, assess risk, log incidents, and support emergency alerts.
 
-- Build reliable, useful AI applications
-- Improve problem-solving and Java fundamentals
-- Learn modern software-development practices
-- Contribute to meaningful projects.
+[View Repository →](https://github.com/Shashankur7/safe-rail-ai-system)
+
+### Core Java Practice
+**Java · OOP · Collections · DSA**
+
+A structured collection of Java programs and exercises covering core Java concepts, problem-solving, arrays, recursion, OOP, and related fundamentals.
+
+[View Repository →](https://github.com/Shashankur7/core-java-practice)
+
+## Training
+
+**Full Stack Java Development — QSpiders**
+
+Focused on Java development, SQL, web technologies, database connectivity, and full-stack application fundamentals.
+
+## Currently Learning
+
+- Spring Boot
+- REST API development
+- Backend application development
+- Data Structures and Algorithms
+
+## Education
+
+**B.Tech — Information Technology**  
+Kavikulguru Institute of Technology & Science, Ramtek
+
+## Career Focus
+
+Open to entry-level opportunities in:
+
+- Java Development
+- Backend Development
+- Java Full Stack Development
 
 ## Connect
 
-- GitHub: [@Shashankur7](https://github.com/Shashankur7)
+[GitHub — @Shashankur7](https://github.com/Shashankur7)
