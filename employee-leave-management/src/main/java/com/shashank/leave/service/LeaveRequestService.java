@@ -2,6 +2,7 @@ package com.shashank.leave.service;
 
 import com.shashank.leave.entity.LeaveRequest;
 import com.shashank.leave.entity.LeaveStatus;
+import com.shashank.leave.exception.ResourceNotFoundException;
 import com.shashank.leave.repository.LeaveRequestRepository;
 import org.springframework.stereotype.Service;
 
@@ -34,10 +35,13 @@ public class LeaveRequestService {
 
     public LeaveRequest findById(Long id) {
         return repository.findById(id)
-                .orElseThrow(() -> new IllegalArgumentException("Leave request not found: " + id));
+                .orElseThrow(() -> new ResourceNotFoundException("Leave request not found: " + id));
     }
 
     public LeaveRequest updateStatus(Long id, LeaveStatus status) {
+        if (status == null) {
+            throw new IllegalArgumentException("Leave status is required");
+        }
         LeaveRequest request = findById(id);
         request.setStatus(status);
         return repository.save(request);
