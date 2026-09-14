@@ -93,7 +93,7 @@ Open to entry-level opportunities in:
 
 ## Connect
 
-[GitHub — @Shashankur7](https://github.com/Shashankur7)
+[LinkedIn](https://www.linkedin.com/in/shashank-bhoyar/) · [GitHub](https://github.com/Shashankur7) · [Email](mailto:bhoyarshashank4@gmail.com)
 
 ---
 
