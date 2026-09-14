@@ -10,6 +10,8 @@
 
 I build practical applications with Java and web technologies, with a focus on backend development, SQL, REST APIs, problem solving, and clean application design.
 
+[**View My Portfolio →**](https://shashank-bhoyar-portfolio.vercel.app/)
+
 ```text
 shashank@github:~$ ./career --status
 
