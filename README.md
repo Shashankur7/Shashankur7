@@ -55,6 +55,16 @@ Structured collection of Java programs and exercises covering core Java concepts
 
 [View Repository →](https://github.com/Shashankur7/core-java-practice)
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="./assets/contributions.svg" alt="GitHub contribution heatmap" width="100%" />
+
+</div>
+
+The contribution heatmap is regenerated automatically through GitHub Actions.
+
 ## Currently Learning
 
 - Spring Boot
