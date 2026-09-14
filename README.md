@@ -48,6 +48,13 @@ Role-based procurement and inventory workflow platform covering authentication, 
 
 [View Repository →](https://github.com/Shashankur7/procureflow)
 
+### Employee Leave Management System
+**Java · Spring Boot · Spring Data JPA · MySQL · REST APIs · Spring Security**
+
+Backend application for employee management and leave workflows, including employee CRUD operations, leave requests, status management, validation, and role-based API protection. Currently being developed as a portfolio project.
+
+[View Project →](https://github.com/Shashankur7/Shashankur7/tree/project/employee-leave-management/employee-leave-management)
+
 ### Safe Rail AI System
 **Python · Flask · OpenCV · YOLOv8**
 
