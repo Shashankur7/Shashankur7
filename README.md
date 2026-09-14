@@ -8,23 +8,23 @@
 
 **Java Full Stack Developer | B.Tech Information Technology**
 
-I build practical applications with Java and web technologies, with a focus on backend development, SQL, problem solving, and clean application design.
+I build practical applications with Java and web technologies, with a focus on backend development, SQL, REST APIs, problem solving, and clean application design.
 
 ```text
 shashank@github:~$ ./career --status
 
 ROLE      : Java Full Stack Developer
-FOCUS     : Java | Spring Boot | SQL | Backend Development
-LEARNING  : REST APIs | Spring Boot | DSA
+FOCUS     : Java | Spring Boot | React | SQL
+BUILDING  : Full-stack applications and REST APIs
 OPEN TO   : Java | Backend | Full Stack opportunities
 ```
 
 ## About Me
 
 - Java-focused developer with a strong foundation in OOP, Collections, Exception Handling, and DSA
-- Working with JDBC, SQL/MySQL, CRUD operations, and REST fundamentals
-- Building web applications with HTML, CSS, and JavaScript
-- Learning Spring Boot and backend application development
+- Building backend applications with Spring Boot, REST APIs, JPA, and SQL
+- Working with React, HTML, CSS, and JavaScript for web application development
+- Experienced with JDBC, MySQL, CRUD operations, validation, and database-driven applications
 - Full Stack Java Development training from QSpiders
 
 ## Technical Skills
@@ -32,14 +32,21 @@ OPEN TO   : Java | Backend | Full Stack opportunities
 | Area | Technologies |
 | --- | --- |
 | Languages | Java, SQL, Python |
-| Backend | Spring Boot, JDBC, Flask |
-| Frontend | HTML, CSS, JavaScript |
-| Database | MySQL |
+| Backend | Spring Boot, Spring Security, REST APIs, JDBC, Flask |
+| Frontend | React, HTML, CSS, JavaScript |
+| Database | PostgreSQL, MySQL |
 | Core Concepts | OOP, Collections, Exception Handling, DSA, DBMS, CRUD, REST |
-| Tools | Git, GitHub, Eclipse, VS Code, MySQL Workbench |
-| Development Practices | SDLC, STLC, Manual Testing, Basic Bug Reporting |
+| Tools | Git, GitHub, Maven, Docker, Eclipse, VS Code, MySQL Workbench |
+| Practices | SDLC, STLC, Testing, API documentation, CI workflows |
 
 ## Featured Projects
+
+### ProcureFlow
+**Java · Spring Boot · React · PostgreSQL · Spring Security · JWT · Docker**
+
+Role-based procurement and inventory workflow platform covering authentication, purchase requests, manager approval, procurement operations, warehouse workflows, and inventory tracking.
+
+[View Repository →](https://github.com/Shashankur7/procureflow)
 
 ### Safe Rail AI System
 **Python · Flask · OpenCV · YOLOv8**
@@ -67,16 +74,16 @@ The contribution heatmap is regenerated automatically through GitHub Actions.
 
 ## Currently Learning
 
-- Spring Boot
-- REST API development
-- Backend application development
+- Advanced Spring Boot application development
+- REST API design and backend architecture
 - Data Structures and Algorithms
+- Production-oriented full-stack development
 
 ## Training
 
 **Full Stack Java Development — QSpiders**
 
-Focused on Java development, SQL, web technologies, database connectivity, and full-stack application fundamentals.
+Focused on Java development, SQL, web technologies, database connectivity, Spring Boot, and full-stack application fundamentals.
 
 ## Education
 
