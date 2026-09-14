@@ -1,6 +1,7 @@
 package com.shashank.leave.service;
 
 import com.shashank.leave.entity.Employee;
+import com.shashank.leave.exception.ResourceNotFoundException;
 import com.shashank.leave.repository.EmployeeRepository;
 import org.springframework.stereotype.Service;
 
@@ -25,7 +26,7 @@ public class EmployeeService {
 
     public Employee findById(Long id) {
         return repository.findById(id)
-                .orElseThrow(() -> new IllegalArgumentException("Employee not found: " + id));
+                .orElseThrow(() -> new ResourceNotFoundException("Employee not found: " + id));
     }
 
     public Employee update(Long id, Employee request) {
@@ -38,7 +39,7 @@ public class EmployeeService {
 
     public void delete(Long id) {
         if (!repository.existsById(id)) {
-            throw new IllegalArgumentException("Employee not found: " + id);
+            throw new ResourceNotFoundException("Employee not found: " + id);
         }
         repository.deleteById(id);
     }
