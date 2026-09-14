@@ -94,10 +94,6 @@ The contribution heatmap is regenerated automatically through GitHub Actions.
 
 Focused on Java development, SQL, web technologies, database connectivity, Spring Boot, and full-stack application fundamentals.
 
-## Education
-
-**B.Tech — Information Technology**  
-Kavikulguru Institute of Technology & Science, Ramtek
 
 ## Career Focus
 
