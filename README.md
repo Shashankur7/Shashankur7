@@ -1,8 +1,23 @@
+<div align="center">
+
+<img src="./assets/profile-art.svg" alt="Shashank Bhoyar - Java Full Stack Developer" width="100%" />
+
+</div>
+
 # Shashank Bhoyar
 
 **Java Full Stack Developer | B.Tech Information Technology**
 
-I’m an Information Technology professional focused on Java and full-stack development. I enjoy building practical applications, strengthening problem-solving with DSA, and developing backend solutions with Java, Spring Boot, and SQL.
+I build practical applications with Java and web technologies, with a focus on backend development, SQL, problem solving, and clean application design.
+
+```text
+shashank@github:~$ ./career --status
+
+ROLE      : Java Full Stack Developer
+FOCUS     : Java | Spring Boot | SQL | Backend Development
+LEARNING  : REST APIs | Spring Boot | DSA
+OPEN TO   : Java | Backend | Full Stack opportunities
+```
 
 ## About Me
 
@@ -10,39 +25,35 @@ I’m an Information Technology professional focused on Java and full-stack deve
 - Working with JDBC, SQL/MySQL, CRUD operations, and REST fundamentals
 - Building web applications with HTML, CSS, and JavaScript
 - Learning Spring Boot and backend application development
-- Interested in entry-level Java, Backend, and Full Stack Developer opportunities
+- Full Stack Java Development training from QSpiders
 
 ## Technical Skills
 
-**Languages:** Java, SQL, Python  
-**Backend:** Spring Boot, JDBC, Flask  
-**Frontend:** HTML, CSS, JavaScript  
-**Database:** MySQL  
-**Core Concepts:** OOP, Collections, Exception Handling, DSA, DBMS, CRUD, REST  
-**Tools:** Git, GitHub, Eclipse, VS Code, MySQL Workbench  
-**Development Practices:** SDLC, STLC, Manual Testing, Basic Bug Reporting
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, SQL, Python |
+| Backend | Spring Boot, JDBC, Flask |
+| Frontend | HTML, CSS, JavaScript |
+| Database | MySQL |
+| Core Concepts | OOP, Collections, Exception Handling, DSA, DBMS, CRUD, REST |
+| Tools | Git, GitHub, Eclipse, VS Code, MySQL Workbench |
+| Development Practices | SDLC, STLC, Manual Testing, Basic Bug Reporting |
 
 ## Featured Projects
 
 ### Safe Rail AI System
 **Python · Flask · OpenCV · YOLOv8**
 
-An AI-based railway track hazard detection prototype that uses computer vision to identify obstructions, assess risk, log incidents, and support emergency alerts.
+AI-based railway track hazard detection prototype that uses computer vision to identify obstructions, assess risk, log incidents, and support emergency alerts.
 
 [View Repository →](https://github.com/Shashankur7/safe-rail-ai-system)
 
 ### Core Java Practice
 **Java · OOP · Collections · DSA**
 
-A structured collection of Java programs and exercises covering core Java concepts, problem-solving, arrays, recursion, OOP, and related fundamentals.
+Structured collection of Java programs and exercises covering core Java concepts, problem solving, arrays, recursion, OOP, and related fundamentals.
 
 [View Repository →](https://github.com/Shashankur7/core-java-practice)
-
-## Training
-
-**Full Stack Java Development — QSpiders**
-
-Focused on Java development, SQL, web technologies, database connectivity, and full-stack application fundamentals.
 
 ## Currently Learning
 
@@ -50,6 +61,12 @@ Focused on Java development, SQL, web technologies, database connectivity, and f
 - REST API development
 - Backend application development
 - Data Structures and Algorithms
+
+## Training
+
+**Full Stack Java Development — QSpiders**
+
+Focused on Java development, SQL, web technologies, database connectivity, and full-stack application fundamentals.
 
 ## Education
 
@@ -67,3 +84,11 @@ Open to entry-level opportunities in:
 ## Connect
 
 [GitHub — @Shashankur7](https://github.com/Shashankur7)
+
+---
+
+<div align="center">
+
+**BUILD · LEARN · IMPROVE**
+
+</div>
