@@ -1,10 +1,17 @@
 spring.application.name=employee-leave-management
 
 # Copy these values into application.properties locally.
-# Do not commit real database credentials.
+# Never commit real database credentials or passwords.
 spring.datasource.url=jdbc:mysql://localhost:3306/employee_leave_db
 spring.datasource.username=YOUR_DB_USERNAME
 spring.datasource.password=YOUR_DB_PASSWORD
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
+
+# Development-only Basic Auth users.
+# Use strong local values and keep them outside version control.
+app.security.admin-username=admin
+app.security.admin-password=CHANGE_ME_ADMIN_PASSWORD
+app.security.employee-username=employee
+app.security.employee-password=CHANGE_ME_EMPLOYEE_PASSWORD
