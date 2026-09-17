@@ -67,7 +67,7 @@ AI-based railway track hazard detection prototype that uses computer vision to i
 ### Core Java Practice
 **Java · OOP · Collections · DSA**
 
-Structured collection of Java programs and exercises covering core Java concepts, problem solving, arrays, recursion, OOP, and related fundamentals.
+Structured collection of Java programs and exercises covering core Java concepts, problem solving, arrays, recursion, OOP's, and related fundamentals.
 
 [View Repository →](https://github.com/Shashankur7/core-java-practice)
 
