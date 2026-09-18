@@ -95,7 +95,7 @@ The contribution heatmap is regenerated automatically through GitHub Actions.
 Focused on Java development, SQL, web technologies, database connectivity, Spring Boot, and full-stack application fundamentals.
 
 
-## Career Focus
+## Career Focus.
 
 Open to entry-level opportunities in:
 
