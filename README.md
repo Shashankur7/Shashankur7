@@ -111,6 +111,6 @@ Open to entry-level opportunities in:
 
 <div align="center">
 
-**BUILD · LEARN · IMPROVE**
+**BUILD · LEARN · IMPROVE***
 
 </div>
