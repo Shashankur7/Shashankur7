@@ -99,9 +99,9 @@ Focused on Java development, SQL, web technologies, database connectivity, Sprin
 
 Open to entry-level opportunities in:
 
-- Java Development.
-- Backend Development.
-- Java Full Stack Development.
+- Java Development
+- Backend Development
+- Java Full Stack Development
 
 ## Connect
 
