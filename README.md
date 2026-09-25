@@ -103,7 +103,7 @@ Open to entry-level opportunities in:
 - Backend Development
 - Java Full Stack Development
 
-## Connect......
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/shashank-bhoyar/) · [GitHub](https://github.com/Shashankur7) · [Email](mailto:bhoyarshashank4@gmail.com)
 
