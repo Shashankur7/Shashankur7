@@ -95,7 +95,7 @@ The contribution heatmap is regenerated automatically through GitHub Actions.
 Focused on Java development, SQL, web technologies, database connectivity, Spring Boot, and full-stack application fundamentals.
 
 
-## Career Focus...
+## Career Focus
 
 Open to entry-level opportunities in:
 
@@ -103,7 +103,7 @@ Open to entry-level opportunities in:
 - Backend Development
 - Java Full Stack Development
 
-## Connect.........
+## Connect...
 
 [LinkedIn](https://www.linkedin.com/in/shashank-bhoyar/) · [GitHub](https://github.com/Shashankur7) · [Email](mailto:bhoyarshashank4@gmail.com)
 
