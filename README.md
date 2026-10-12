@@ -88,7 +88,7 @@ The contribution heatmap is regenerated automatically through GitHub Actions.
 - Data Structures and Algorithms
 - Production-oriented full-stack development
 
-## Training
+## Training........
 
 **Full Stack Java Development — QSpiders**
 
