@@ -1,118 +1,50 @@
-<div align="center">
-
-<img src="./assets/profile-art.svg" alt="Shashank Bhoyar - Java Full Stack Developer" width="100%" />
-
-</div>
-
 # Shashank Bhoyar
 
-**Java Full Stack Developer | B.Tech Information Technology**
+**Java Developer | Spring Boot | Full-Stack Development**
 
-I build practical applications with Java and web technologies, with a focus on backend development, SQL, REST APIs, problem solving, and clean application design.
+I'm an Information Technology graduate focused on Java development and building practical web applications. I enjoy working on backend logic, REST APIs, database integration, and learning how to structure applications properly.
 
-[**View My Portfolio →**](https://shashank-bhoyar-portfolio.vercel.app/)
+- **Primary focus:** Java, Spring Boot, SQL, and REST APIs
+- **Frontend:** React, JavaScript, HTML, and CSS
+- **Tools:** Git, GitHub, Maven, Docker, and MySQL Workbench
+- **Training:** Full Stack Java Development at QSpiders
 
-```text
-shashank@github:~$ ./career --status
-
-ROLE      : Java Full Stack Developer
-FOCUS     : Java | Spring Boot | React | SQL
-BUILDING  : Full-stack applications and REST APIs
-OPEN TO   : Java | Backend | Full Stack opportunities
-```
-
-## About Me
-
-- Java-focused developer with a strong foundation in OOP, Collections, Exception Handling, and DSA
-- Building backend applications with Spring Boot, REST APIs, JPA, and SQL
-- Working with React, HTML, CSS, and JavaScript for web application development
-- Experienced with JDBC, MySQL, CRUD operations, validation, and database-driven applications
-- Full Stack Java Development training from QSpiders
-
-## Technical Skills
-
-| Area | Technologies |
-| --- | --- |
-| Languages | Java, SQL, Python |
-| Backend | Spring Boot, Spring Security, REST APIs, JDBC, Flask |
-| Frontend | React, HTML, CSS, JavaScript |
-| Database | PostgreSQL, MySQL |
-| Core Concepts | OOP, Collections, Exception Handling, DSA, DBMS, CRUD, REST |
-| Tools | Git, GitHub, Maven, Docker, Eclipse, VS Code, MySQL Workbench |
-| Practices | SDLC, STLC, Testing, API documentation, CI workflows |
-
-## Featured Projects
+## Projects
 
 ### ProcureFlow
-**Java · Spring Boot · React · PostgreSQL · Spring Security · JWT · Docker**
+A procurement and inventory management application with role-based access, purchase request approvals, purchase orders, and warehouse workflows.
 
-Role-based procurement and inventory workflow platform covering authentication, purchase requests, manager approval, procurement operations, warehouse workflows, and inventory tracking.
+**Tech:** Java, Spring Boot, React, PostgreSQL, Spring Security, JWT, Docker
 
-[View Repository →](https://github.com/Shashankur7/procureflow)
+[Source code](https://github.com/Shashankur7/procureflow)
 
 ### Employee Leave Management System
-**Java · Spring Boot · Spring Data JPA · MySQL · REST APIs · Spring Security**
+A Spring Boot application for employee records and leave requests, with request status management, validation, and role-based API access.
 
-Backend application for employee management and leave workflows, including employee CRUD operations, leave requests, status management, validation, and role-based API protection. Currently being developed as a portfolio project.
+**Tech:** Java, Spring Boot, Spring Data JPA, MySQL, Spring Security
 
-[View Project →](https://github.com/Shashankur7/Shashankur7/tree/project/employee-leave-management/employee-leave-management)
+[Source code](https://github.com/Shashankur7/employee-leave-management)
 
 ### Safe Rail AI System
-**Python · Flask · OpenCV · YOLOv8**
+A computer-vision prototype that analyses railway track footage for possible obstacles and supports incident logging and alerts.
 
-AI-based railway track hazard detection prototype that uses computer vision to identify obstructions, assess risk, log incidents, and support emergency alerts.
+**Tech:** Python, Flask, OpenCV, YOLOv8
 
-[View Repository →](https://github.com/Shashankur7/safe-rail-ai-system)
+[Source code](https://github.com/Shashankur7/safe-rail-ai-system)
 
 ### Core Java Practice
-**Java · OOP · Collections · DSA**
+Programs and exercises for practising Java fundamentals, object-oriented programming, collections, arrays, recursion, and problem solving.
 
-Structured collection of Java programs and exercises covering core Java concepts, problem solving, arrays, recursion, OOP's, and related fundamentals.
+**Tech:** Java
 
-[View Repository →](https://github.com/Shashankur7/core-java-practice)
+[Source code](https://github.com/Shashankur7/core-java-practice)
 
-## GitHub Activity
+## What I'm Working On
 
-<div align="center">
+I'm improving my Spring Boot and SQL skills, practising data structures and algorithms, and learning to build, test, and document applications more independently.
 
-<img src="./assets/contributions.svg" alt="GitHub contribution heatmap" width="100%" />
+## Contact
 
-</div>
-
-The contribution heatmap is regenerated automatically through GitHub Actions.
-
-## Currently Learning
-
-- Advanced Spring Boot application development
-- REST API design and backend architecture
-- Data Structures and Algorithms
-- Production-oriented full-stack development
-
-## Training........
-
-**Full Stack Java Development — QSpiders**
-
-Focused on Java development, SQL, web technologies, database connectivity, Spring Boot, and full-stack application fundamentals.
-
-
-## Career Focus
-
-Open to entry-level opportunities in:
-
-- Java Development
-- Backend Development
-- Java Full Stack Development
-
-## Connect.
-
-[LinkedIn](https://www.linkedin.com/in/shashank-bhoyar/) · [GitHub](https://github.com/Shashankur7) · [Email](mailto:bhoyarshashank4@gmail.com)
-
----
-
-<div align="center">
-
-**BUILD · LEARN · IMPROVE**
-
-</div>
-
-<!-- Contribution verification commit: 2026-09-29 -->
+- [LinkedIn](https://www.linkedin.com/in/shashank-bhoyar/)
+- [Portfolio](https://shashank-bhoyar-portfolio.vercel.app/)
+- [Email](mailto:bhoyarshashank4@gmail.com)
