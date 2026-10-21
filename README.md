@@ -66,7 +66,7 @@ I'm an Information Technology graduate focused on Java development and building 
   </tr>
 </table>
 
-## Currently Improving..
+## Currently Improving
 
 Spring Boot application design, SQL, data structures and algorithms, and writing better tests and project documentation.
 
