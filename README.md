@@ -33,7 +33,7 @@ I'm an Information Technology graduate focused on Java development and building 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Selected Projects
+## Selected Projects....
 
 <table>
   <tr>
